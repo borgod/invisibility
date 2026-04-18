@@ -14,7 +14,7 @@ Invisibility program
    on my jacket (I didnt have a cloak available)
 
 5. You can skip all of the above, and get the result directly by downloading
-   the file in /results/output.mov, showing the same that you would get with
+   the file in /results/output.mp4, showing the same that you would get with
    steps (1), (2), and (3)
 
 
