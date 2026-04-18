@@ -8,7 +8,8 @@ Invisibility program
    -. background.png
    -. target.mov
 
-2. Run the script invisibiluty_bg.ipynb in, for example, Visual Studio Code
+2. Run the script invisibiluty_bg.ipynb in, for example, Jupyter Notebook or
+   Visual Studio Code
 
 4. The script will produce a new file, called output.mov, with the invisibility effect
    on my jacket (I didnt have a cloak available)
